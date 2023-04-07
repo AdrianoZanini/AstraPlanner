@@ -1,0 +1,7 @@
+cs50
+dash
+dash_bootstrap_components
+pandas==1.5.3
+holidays
+
+
