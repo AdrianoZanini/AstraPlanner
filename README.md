@@ -1,5 +1,4 @@
 # **ASTRA PLANNER**
-### Video Demo:  <https://youtu.be/DypTem11-fY>
 ### Description:
 
 Astra Planner is a resource management web application for capacity planning and forecasting across teams, projects and tasks.
